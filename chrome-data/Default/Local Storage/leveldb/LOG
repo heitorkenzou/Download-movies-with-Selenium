@@ -1,0 +1,7 @@
+2021/02/15-06:28:04.817 41e0 Reusing MANIFEST C:\Users\heitorzin\Desktop\scrap\chrome-data\Default\Local Storage\leveldb/MANIFEST-000001
+2021/02/15-06:28:04.818 41e0 Recovering log #5
+2021/02/15-06:28:04.818 41e0 Level-0 table #7: started
+2021/02/15-06:28:04.866 41e0 Level-0 table #7: 38808 bytes OK
+2021/02/15-06:28:04.866 41e0 Recovering log #7
+2021/02/15-06:28:04.867 41e0 Reusing old log C:\Users\heitorzin\Desktop\scrap\chrome-data\Default\Local Storage\leveldb/000007.log 
+2021/02/15-06:28:04.870 41e0 Delete type=0 #5
